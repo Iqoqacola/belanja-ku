@@ -38,22 +38,31 @@ Repository: https://github.com/Iqoqacola/belanja-ku.git
 
 ---
 
-## Fitur Utama
+## ✨ Fitur yang Tersedia
 
-- **Landing Page Tentang Kami**  
-  Menampilkan informasi tentang platform Belanja-Ku, seperti visi dan misi.
+- ✅ **Multi Halaman**
+  - Home Page
+  - Product Page
+  - About Page
 
-- **Design Responsif**  
-  Menggunakan Tailwind CSS untuk mendukung tampilan di desktop maupun mobile.
+- ✅ **Komponen Konsisten**
+  - Navbar/header yang sama pada semua halaman
+  - Footer yang sama pada semua halaman
 
-- **Section Visi & Misi**  
-  Menyajikan visi & misi toko secara menarik dan informatif.
+- ✅ **Home Page**
+  - Hero section dengan highlight aplikasi
+  - Rangkuman dan pengantar singkat tentang platform
 
-- **Kontak & CS Support**  
-  Menyediakan informasi kontak untuk pertanyaan atau keluhan pelanggan.
+- ✅ **Product Page**
+  - Menampilkan daftar produk lengkap
+  - Fitur pencarian produk (search box)
 
-- **Navigasi Dinamis**  
-  Navigasi dengan `react-router-dom`, termasuk fitur hamburger menu di mobile.
+- ✅ **About Page**
+  - Penjelasan singkat tentang platform
+  - Informasi kontak customer service
+
+- 🔒 **Login & Register Page**
+  - Halaman tersedia namun belum terimplementasi logika autentikasinya
 
 ---
 
