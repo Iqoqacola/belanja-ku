@@ -92,7 +92,7 @@ const About = () => {
           <div className="hero-content lg:ml-140 hidden lg:block">
             <div>
               <div
-                className="sm:hidden"
+                className=""
                 style={{
                   backgroundColor: "transparent",
                   backgroundImage: "url('/hubungikami.png')",
